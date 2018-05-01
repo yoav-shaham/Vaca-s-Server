@@ -1,0 +1,26 @@
+{
+  "name": "vacas-command-server",
+  "version": "1.0.0",
+  "description": "This server will eventually be an oauth validated server containing the commands for the vaca application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoav-shaham/Vaca-s-Server.git"
+  },
+  "keywords": [
+    "Express",
+    "JS"
+  ],
+  "author": "Yoav Shaham",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/yoav-shaham/Vaca-s-Server/issues"
+  },
+  "homepage": "https://github.com/yoav-shaham/Vaca-s-Server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
